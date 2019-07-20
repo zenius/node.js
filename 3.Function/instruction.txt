@@ -1,6 +1,24 @@
 1. Go the current directory where file is located. 
 2. Run the following command in your terminal. 
 
-node helloWorld.js 
+node help.js --help
 
 // output 
+usage: 
+Type           node help.js $your_input$
+
+
+/*************************************************/
+
+node help.js 
+
+// output 
+usage: 
+Type           node help.js $your_input$
+
+
+/*************************************************/
+node help.js zenius
+
+// output
+Hello zenius
