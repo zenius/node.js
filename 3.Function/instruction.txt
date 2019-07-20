@@ -1,0 +1,6 @@
+1. Go the current directory where file is located. 
+2. Run the following command in your terminal. 
+
+node helloWorld.js 
+
+// output 
